@@ -68,8 +68,8 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/YOUR-USERNAME/luxselect.git
-cd luxselect
+git clone https://github.com/loong-solvable/LuxSelect-AI.git
+cd LuxSelect-AI
 
 # 2. 创建虚拟环境 (推荐)
 python -m venv venv
@@ -312,8 +312,8 @@ pyinstaller --onefile --windowed --name LuxSelect src/main.py
 
 ## 🔗 相关链接
 
-- **问题反馈**: [GitHub Issues](https://github.com/YOUR-USERNAME/luxselect/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/YOUR-USERNAME/luxselect/discussions)
+- **问题反馈**: [GitHub Issues](https://github.com/loong-solvable/LuxSelect-AI/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/loong-solvable/LuxSelect-AI/discussions)
 
 ## ⚠️ 免责声明
 
